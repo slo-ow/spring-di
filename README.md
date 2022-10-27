@@ -1,2 +1,2 @@
-# spring-ioc
-Practice Spring iOC (Inversion Of Control)
+# spring-di
+Practice to DI (Dependency Injection)
